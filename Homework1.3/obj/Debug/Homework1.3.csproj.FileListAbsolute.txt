@@ -1,0 +1,6 @@
+C:\Users\ЛБ\Desktop\C#\Homework1\Homework1.3\bin\Debug\Homework1.3.exe.config
+C:\Users\ЛБ\Desktop\C#\Homework1\Homework1.3\bin\Debug\Homework1.3.exe
+C:\Users\ЛБ\Desktop\C#\Homework1\Homework1.3\bin\Debug\Homework1.3.pdb
+C:\Users\ЛБ\Desktop\C#\Homework1\Homework1.3\obj\Debug\Homework1.3.csproj.CoreCompileInputs.cache
+C:\Users\ЛБ\Desktop\C#\Homework1\Homework1.3\obj\Debug\Homework1.3.exe
+C:\Users\ЛБ\Desktop\C#\Homework1\Homework1.3\obj\Debug\Homework1.3.pdb
