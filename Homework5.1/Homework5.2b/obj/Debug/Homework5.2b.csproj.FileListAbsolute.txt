@@ -1,0 +1,7 @@
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\bin\Debug\Homework5.2b.exe.config
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\bin\Debug\Homework5.2b.exe
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\bin\Debug\Homework5.2b.pdb
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\obj\Debug\Homework5.2b.csprojAssemblyReference.cache
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\obj\Debug\Homework5.2b.csproj.CoreCompileInputs.cache
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\obj\Debug\Homework5.2b.exe
+C:\Users\ЛБ\source\repos\Homework5.1\Homework5.2b\obj\Debug\Homework5.2b.pdb
