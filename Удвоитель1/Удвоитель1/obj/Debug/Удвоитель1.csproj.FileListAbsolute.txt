@@ -1,0 +1,14 @@
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\bin\Debug\Удвоитель1.exe.config
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\bin\Debug\Удвоитель1.exe
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\bin\Debug\Удвоитель1.pdb
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.csprojAssemblyReference.cache
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.Form1.resources
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.Properties.Resources.resources
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.csproj.GenerateResource.cache
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.csproj.CoreCompileInputs.cache
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.exe
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.pdb
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.FormMenu.resources
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.FormLose.resources
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.FormWin.resources
+C:\Users\ЛБ\Desktop\C#\Удвоитель1\Удвоитель1\obj\Debug\Удвоитель1.FormGuess.resources
