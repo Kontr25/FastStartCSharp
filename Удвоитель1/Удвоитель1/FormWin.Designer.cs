@@ -1,0 +1,74 @@
+﻿namespace Удвоитель1
+{
+    partial class FormWin
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.winLbl = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(0, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "label1";
+            // 
+            // winLbl
+            // 
+            this.winLbl.AutoSize = true;
+            this.winLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.winLbl.Location = new System.Drawing.Point(-4, 80);
+            this.winLbl.Name = "winLbl";
+            this.winLbl.Size = new System.Drawing.Size(488, 39);
+            this.winLbl.TabIndex = 1;
+            this.winLbl.Text = "Поздравляем!!! Вы победили!\r\n";
+            this.winLbl.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // FormWin
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(484, 221);
+            this.Controls.Add(this.winLbl);
+            this.Controls.Add(this.label1);
+            this.Name = "FormWin";
+            this.Text = "Form2";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label winLbl;
+    }
+}
