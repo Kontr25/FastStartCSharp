@@ -1,0 +1,7 @@
+C:\Users\ЛБ\source\repos\йцу\йцу\obj\Debug\йцу.csprojAssemblyReference.cache
+C:\Users\ЛБ\source\repos\йцу\йцу\obj\Debug\йцу.csproj.CoreCompileInputs.cache
+C:\Users\ЛБ\source\repos\йцу\йцу\bin\Debug\йцу.exe.config
+C:\Users\ЛБ\source\repos\йцу\йцу\bin\Debug\йцу.exe
+C:\Users\ЛБ\source\repos\йцу\йцу\bin\Debug\йцу.pdb
+C:\Users\ЛБ\source\repos\йцу\йцу\obj\Debug\йцу.exe
+C:\Users\ЛБ\source\repos\йцу\йцу\obj\Debug\йцу.pdb
