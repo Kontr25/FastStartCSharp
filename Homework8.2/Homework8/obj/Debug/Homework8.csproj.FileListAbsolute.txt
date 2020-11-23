@@ -1,0 +1,10 @@
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\bin\Debug\Homework8.exe.config
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\bin\Debug\Homework8.exe
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\bin\Debug\Homework8.pdb
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.csprojAssemblyReference.cache
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.Form1.resources
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.Properties.Resources.resources
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.exe
+C:\Users\ЛБ\Desktop\C#\Homework8\Homework8\obj\Debug\Homework8.pdb
